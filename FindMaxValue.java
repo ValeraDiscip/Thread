@@ -1,7 +1,6 @@
 package Thread;
 
 import java.util.List;
-import java.util.concurrent.atomic.AtomicInteger;
 
 public class FindMaxValue extends Thread {
     private int result = Integer.MIN_VALUE;
