@@ -1,4 +1,4 @@
-package Thread.v2;
+package Thread;
 
 import java.util.List;
 import java.util.concurrent.Callable;
